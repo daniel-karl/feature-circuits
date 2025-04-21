@@ -15,7 +15,7 @@ setup(
         "einops>=0.7.0",
         "graphviz>=0.20.1",
         "matplotlib>=3.8.3",
-        "nnsight==0.2.15",
+        "nnsight==0.3.0",
         "numpy>=1.26.4",
         "pandas>=2.2.1",
         "plotly>=5.18.0",
