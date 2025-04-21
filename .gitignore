@@ -162,7 +162,7 @@ cython_debug/
 
 phenomena/vocab/*.json
 phenomena/circuits/*
-circuits/*
+# circuits/*
 dictionaries/*
 experiments/effects/*
 experiments/faithfulness/*
